@@ -1,0 +1,24 @@
+{
+  "name": "react-preload-images",
+  "version": "0.0.1",
+  "description": "Sequential preloading of images for ReactJS",
+  "main": "./lib/ReactPreloadImages.react.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marizikmund/react-preload-images.git"
+  },
+  "keywords": [
+    "react",
+    "image",
+    "preload"
+  ],
+  "author": "Mari Zikmund <marizikmund@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marizikmund/react-preload-images/issues"
+  },
+  "homepage": "https://github.com/marizikmund/react-preload-images"
+}
